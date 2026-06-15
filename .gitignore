@@ -1,0 +1,17 @@
+# dependencies
+/node_modules
+
+# production build
+/build
+
+# env (Kakao / Firebase 키는 커밋하지 않음)
+.env
+.env.local
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# misc
+.DS_Store
